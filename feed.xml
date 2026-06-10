@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title><![CDATA[클럽]]></title>
+  <link>https://tidalhss-star.github.io/bp-kr-pbn-sr-126</link>
+  <description><![CDATA[클럽 - 역삼 클럽 추천 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 02:17:09 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 02:17:09 GMT</lastBuildDate>
+  <atom:link href="https://tidalhss-star.github.io/bp-kr-pbn-sr-126/feed.xml" rel="self" type="application/rss+xml" />
+  
+    <item>
+      <title><![CDATA[창작한 제목]]></title>
+      <link>https://tidalhss-star.github.io/bp-kr-pbn-sr-126/posts/field_note-001-1ii66xu.html</link>
+      <guid isPermaLink="true">https://tidalhss-star.github.io/bp-kr-pbn-sr-126/posts/field_note-001-1ii66xu.html</guid>
+      <description><![CDATA[**Apache Superset 2.0 RC3 삭제와 취약점: 보안 연구원 시각** 아, 진짜... Apache Superset의 PyPI에서 RC3 빌드가 삭제된 이유는 무엇일까? CVSS 9.8 점수를 가진 실제 취약점을 숨긴 'silent patch'가 바로 그것]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[클럽 해결 방법 총정리 — 전문가가 알려주는 5가지 팁]]></title>
+      <link>https://tidalhss-star.github.io/bp-kr-pbn-sr-126/posts/guide-002-1ii66xu.html</link>
+      <guid isPermaLink="true">https://tidalhss-star.github.io/bp-kr-pbn-sr-126/posts/guide-002-1ii66xu.html</guid>
+      <description><![CDATA[### 포스트 DNA 9889b0fd #### 제목: 창작한 제목: "역삼 클럽 찾는 눈길 잡는 방법, 프로덕션 배포 후의 디버깅 깊이 들여다보기" 아, 진짜... 최근 LLM에서 발생하는 instruction following 저하 현상은 Neovim inlay hi]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+</channel>
+</rss>
